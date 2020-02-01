@@ -24,7 +24,7 @@
     "dist/bootstrap-treeview.min.css"
   ],
   "scripts": {
-    "install": "npm install",
+    "install": "bower install",
     "start": "node app",
     "test": "grunt test"
   },
